@@ -32,3 +32,6 @@ npm start
 ```
 
 Open the browser at http://localhost:3000/ and login with username: 'user', and password: 'password'.
+
+
+Tener cuidado con el bloqueo de cookies del browser.
